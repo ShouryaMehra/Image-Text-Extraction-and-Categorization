@@ -1,1 +1,1 @@
-# Image-Text-Extraction-and-Categorization
+# Image Text Extraction and Categorization
